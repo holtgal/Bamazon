@@ -1,7 +1,7 @@
 # Node-MySQL-Bamazon-
 # Bamazon
 
-This is bamazon. Bamazon, as it's name suggests, is a simple e-commerce app, or at least the backend for it. Check out this screencast on youtube to see how it works:  [![Watch the video](https://cdn1.imggmi.com/uploads/2019/7/24/7c23b841b412642f070cac429282dfee-full.png)](https://www.youtube.com/watch?v=OA4tVWkye7Y)
+This is bamazon. Bamazon, as it's name suggests, is a simple e-commerce app, or at least the backend for it. Check out this screencast on youtube to see how it works:  [![Watch the video]](https://www.youtube.com/watch?v=OA4tVWkye7Y)
 
 Bamazon uses some third-party node modules, has it's own modules, and connects to a mysql database to store and retrieve product and department information.
 
